@@ -160,4 +160,4 @@ class HelloWorld extends StatelessWidget {
 // <summary>README.md<summary\>
 // <details\>
 
-// Hi Sir Ced - Cabanada
+// Hi Sir Ced, ang hirap - Cabanada
